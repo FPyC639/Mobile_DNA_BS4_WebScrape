@@ -8,6 +8,9 @@ This web scraper is a work in progress application I built based on DS 636 at NJ
 
 Adjusted querying parameters for the console application. Now it queries correctly using topic, and year before the application was not doing it correctly only depending on topic which provided incorrect results.
 
+## Edit 01/22/2024
+
+Added histogram plot using matplotlib of the access count frequency of the articles within a confined scope of the articles.
 
 
 ## Acknowledgements
